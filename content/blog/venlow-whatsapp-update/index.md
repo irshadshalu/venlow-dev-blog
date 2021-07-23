@@ -34,6 +34,9 @@ We will publish all the updates in this blog.
 
 ### I Purchased Venlow after 23rd July and I want a refund
 
-If you purchased Venlow after 23rd July and would like a refund, Please email your google play order id starting with GPA. to venlow@irshadpi.me, I will assist you with the refund.
+If you purchased Venlow after 23rd July and would like a refund, Please email your google play Order ID (starting with "GPA") to venlow@irshadpi.me, I will assist you with the refund.
 
-Order ID should be included in the email, otherwise I am not able to refund. You can find the order id in the email sent to you from Google Plasy right after purchase.
+Order ID should be included in the email, otherwise I will not be able to refund. You can find the Order ID in the email sent to you from Google Play right after the purchase.
+
+
+Thanks once again.

@@ -12,6 +12,8 @@ In the latest WhatsApp update (2.21.14.24), WhatsApp changed how video is shared
 
 As a result, Venlow won't be useful to post HD statuses on WhatsApp anymore. I know many of you use Venlow regularly to improve the quality of stories that you share on WhatsApp. It is very unfortunate that they have made this decision. 
 
+I want to thank each and every one of you for the generous feedback which motivated me to improve Venlow over time.
+
 ### So I can't use Venlow to post WhatsApp statuses anymore?
 
 If you're on an older version of WhatsApp, then you can post videos without losing quality as it used to be. If you're on the recent versions of WhatsApp, it will work only for some very low values of the bitrate and resolution which again doesn't help with the quality.
@@ -27,3 +29,11 @@ Yes. We have made no changes to Venlow and Venlow will keep on working as it use
 ### What's the future for Venlow
 
 Since Android lacks a video compression app with quality output, we are planning to improve Venlow to be an all-in-one video compressor with editing options such as stickers, texts, custom crop, rotate, etc. We can't give an estimated time for this. But we'll definitely start working on it.
+
+We will publish all the updates in this blog.
+
+### I Purchased Venlow after 23rd July and I want a refund
+
+If you purchased Venlow after 23rd July and would like a refund, Please email your google play order id starting with GPA. to venlow@irshadpi.me, I will assist you with the refund.
+
+Order ID should be included in the email, otherwise I am not able to refund. You can find the order id in the email sent to you from Google Plasy right after purchase.

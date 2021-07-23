@@ -12,6 +12,9 @@ Dalam pembaruan WhatsApp terbaru (2.21.14.24), WhatsApp mengubah cara video diba
 
 Akibatnya, Venlow tidak lagi berguna untuk memposting status HD di WhatsApp. Saya tahu banyak dari Anda menggunakan Venlow secara teratur untuk meningkatkan kualitas cerita yang Anda bagikan di WhatsApp. Sangat disayangkan bahwa mereka telah membuat keputusan ini.
 
+Saya ingin berterima kasih kepada Anda semua atas umpan balik murah hati yang memotivasi saya 
+untuk meningkatkan Venlow dari waktu ke waktu.
+
 ### Jadi saya tidak bisa lagi menggunakan Venlow untuk memposting status WhatsApp?
 
 Jika Anda menggunakan WhatsApp versi lama, Anda dapat memposting video tanpa kehilangan kualitas seperti dulu. Jika Anda menggunakan WhatsApp versi terbaru, itu hanya akan berfungsi untuk beberapa nilai bitrate dan resolusi yang sangat rendah yang sekali lagi tidak membantu kualitas.
@@ -27,3 +30,11 @@ Ya. Kami tidak melakukan perubahan apa pun pada Venlow dan Venlow akan tetap ber
 ### Bagaimana masa depan Venlow
 
 Karena Android tidak memiliki aplikasi kompresi video dengan output berkualitas, kami berencana untuk meningkatkan Venlow menjadi kompresor video all-in-one dengan opsi pengeditan seperti stiker, teks, krop kustom, putar, dll. Kami tidak dapat memberikan perkiraan waktu untuk ini. Tapi kami pasti akan mulai mengerjakannya.
+
+Kami akan mempublikasikan semua pembaruan di blog ini.
+
+### Saya Membeli Venlow setelah 23 Juli dan saya ingin pengembalian dana
+
+Jika Anda membeli Venlow setelah 23 Juli dan ingin pengembalian dana, Silakan email id pesanan google play Anda yang dimulai dengan "GPA". ke venlow@irshadpi.me, saya akan membantu Anda dengan pengembalian dana.
+
+ID Pesanan harus disertakan dalam email, jika tidak saya tidak dapat mengembalikan uang. Anda dapat menemukan id pesanan dalam email yang dikirimkan kepada Anda dari Google Play setelah pembelian. 

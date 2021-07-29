@@ -14,7 +14,7 @@ As a result, Venlow also had to reduce it's quality options and the videos won't
 
 I am currently working on ways to improve the quality but I can't give a promise since it is on WhatsApp side that the quality is being lost.
 
-### Can I still use Venlow to post WhatsApp statuses anymore?
+### Can I still use Venlow to post WhatsApp statuses?
 
 Yes you can. If you're on an older version of WhatsApp, then you can post videos without losing quality as it used to be.
 

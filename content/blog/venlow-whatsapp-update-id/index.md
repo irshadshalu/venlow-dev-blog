@@ -14,7 +14,7 @@ Akibatnya, Venlow juga harus mengurangi opsi kualitasnya dan videonya tidak akan
 
 Saat ini saya sedang mencari cara untuk meningkatkan kualitas tetapi saya tidak bisa menjanjikan karena ada pihak WhatsApp yang kehilangan kualitasnya.
 
-### Apakah saya masih bisa menggunakan Venlow untuk memposting status WhatsApp lagi?
+### Apakah saya masih bisa menggunakan Venlow untuk memposting status WhatsApp?
 
 Ya kamu bisa. Jika Anda menggunakan WhatsApp versi lama, Anda dapat memposting video tanpa kehilangan kualitas seperti dulu.
 
